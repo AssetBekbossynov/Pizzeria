@@ -1,0 +1,10 @@
+C:\Users\Aliden\Labs_.net\Pizzeria\bin\Debug\netcoreapp2.0\Pizzeria.deps.json
+C:\Users\Aliden\Labs_.net\Pizzeria\bin\Debug\netcoreapp2.0\Pizzeria.runtimeconfig.json
+C:\Users\Aliden\Labs_.net\Pizzeria\bin\Debug\netcoreapp2.0\Pizzeria.runtimeconfig.dev.json
+C:\Users\Aliden\Labs_.net\Pizzeria\bin\Debug\netcoreapp2.0\Pizzeria.dll
+C:\Users\Aliden\Labs_.net\Pizzeria\bin\Debug\netcoreapp2.0\Pizzeria.pdb
+C:\Users\Aliden\Labs_.net\Pizzeria\obj\Debug\netcoreapp2.0\Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Aliden\Labs_.net\Pizzeria\obj\Debug\netcoreapp2.0\Pizzeria.AssemblyInfoInputs.cache
+C:\Users\Aliden\Labs_.net\Pizzeria\obj\Debug\netcoreapp2.0\Pizzeria.AssemblyInfo.cs
+C:\Users\Aliden\Labs_.net\Pizzeria\obj\Debug\netcoreapp2.0\Pizzeria.dll
+C:\Users\Aliden\Labs_.net\Pizzeria\obj\Debug\netcoreapp2.0\Pizzeria.pdb

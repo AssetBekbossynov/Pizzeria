@@ -10,7 +10,6 @@ namespace Pizzeria.Models
         // public List<Pizza> Pizzas { get; set; }
         public int ClientId { get; set; }
         public int PizzaId { get; set; }
-        public int PizzeriaId { get; set; }
         public List<OrderDetail> OrderDetails { get; set; }
     }
 }

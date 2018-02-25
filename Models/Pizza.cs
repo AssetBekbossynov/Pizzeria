@@ -9,7 +9,7 @@ namespace Pizzeria.Models
         public int Id { get; set; }
         public string PizzaName { get; set; }
         public string Ingredients { get; set; }
-        public float PizzaCost { get; set; }
+        public int PizzaCost { get; set; }
         public int PizzeriaHouseId { get; set; }
 
     }

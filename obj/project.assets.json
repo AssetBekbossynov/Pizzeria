@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aliden\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/asset/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aliden\\Labs_.net\\Pizzeria\\Pizzeria.csproj",
+      "projectUniqueName": "/home/asset/Pizzeria/Pizzeria/Pizzeria.csproj",
       "projectName": "Pizzeria",
-      "projectPath": "C:\\Users\\Aliden\\Labs_.net\\Pizzeria\\Pizzeria.csproj",
-      "packagesPath": "C:\\Users\\Aliden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aliden\\Labs_.net\\Pizzeria\\obj\\",
+      "projectPath": "/home/asset/Pizzeria/Pizzeria/Pizzeria.csproj",
+      "packagesPath": "/home/asset/.nuget/packages/",
+      "outputPath": "/home/asset/Pizzeria/Pizzeria/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Aliden\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/asset/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

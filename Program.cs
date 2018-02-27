@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 using Pizzeria.Models;
 
 namespace Pizzeria
@@ -49,6 +50,16 @@ namespace Pizzeria
                     item.Id,
                     item.Address));
             }
+
+            string path = "Data/Client.csv";
+            string readText = File.ReadAllText(path);
+            File.AppendAllText(path, "text content" + Environment.NewLine);
+            Console.WriteLine("Choose option:\n[1]Show Pizzeria {0}", readText);
+
+            int option = Convert.ToInt32(Console.ReadLine());
+
         }
+
+
     }
 }
